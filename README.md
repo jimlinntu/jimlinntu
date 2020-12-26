@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Jim Lin 👋
+
+![Vim](https://img.shields.io/badge/Vim-Expert-orange)
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Deep Learning](https://img.shields.io/badge/DeepLearning-Expert-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-Expert-yellow)
+![Linux](https://img.shields.io/badge/Linux-Expert-brightgreen)
+![Go](https://img.shields.io/badge/Go-Intermediate-informational)
 
 #### I'm a Data Scientist working in Taipei, Taiwan.
 
