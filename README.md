@@ -13,3 +13,4 @@
 - 🌐 Reach me: [jimlinntu.github.io](https://jimlinntu.github.io/)
 - ⚡️ Fun fact: I'm a huge fan of Pentatonix!
 
+![Jim's github stats](https://github-readme-stats.vercel.app/api?username=jimlinntu&show_icons=true&hide_border=true&theme=gruvbox)
