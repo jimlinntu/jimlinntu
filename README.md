@@ -7,11 +7,11 @@
 ![Linux](https://img.shields.io/badge/Linux-Expert-brightgreen)
 ![Go](https://img.shields.io/badge/Go-Intermediate-informational)
 
-#### I'm a Data Scientist working in Taipei, Taiwan.
+#### I will be working at Google this year!
 
 ##### BIO
 
-- 🏢 I'm currently working at **BravoAI**
+- 🏢 I will be a Software Engineer at Google in this summer!
 - 📚 About to begin my [MEng in EECS at UC Berkeley](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng) in the middle of 2021!
 - ⚙️  I use daily: `vim`, `Python`, `Docker`, `Linux`
 - 🌍 I currently enage in the **Moby Project**
